@@ -31,7 +31,8 @@ public class TestDemo1 {
 			final int STU_AGE=22;
 			System.out.println(STU_AGE);
 		    
-		
+		//PLAY JOKES
+		System.out.println("YOU ARE THE BEST");
 		
 	}
 
